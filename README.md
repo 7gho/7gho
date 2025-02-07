@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7gho
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning
 - 💞️ I’m looking to get some popcorn (this is random)
 - 📫 Reach me
 
